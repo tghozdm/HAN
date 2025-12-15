@@ -17,6 +17,5 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 ✅ **ALLOWED USE:** You are free to download, run, and study the code "as-is" for personal research, education, or non-profit evaluation.
 
 ---
-**💼 Commercial Inquiries:**
-To purchase a commercial license or request permission for modifications, please contact: **[YOUR EMAIL ADDRESS]**
+
 ---
