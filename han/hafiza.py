@@ -1,4 +1,4 @@
-# han/hafiza.py (GÜNCELLENMİŞ HALİ)
+# han/hafiza.py 
 import torch
 import faiss
 import numpy as np
